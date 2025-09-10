@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://Xuan-Nham.github.io/sitemap.xml
